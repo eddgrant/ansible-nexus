@@ -32,7 +32,7 @@ Including an example of how to use your role (for instance, with variables passe
 
     - hosts: servers
       roles:
-         - { role: jhinrichsen.nexus, nexus_installation_dir: '/opt' }
+         - { role: hullufred.nexus, nexus_installation_dir: '/opt' }
 
 License
 -------
